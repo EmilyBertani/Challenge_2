@@ -46,38 +46,42 @@ Type in `conda activate dev` to make sure you are in the dev environment to run 
 
 You will then be prompted to enter in the file path to a rate sheet:
 
-![File Path](URL)
+![File Path](https://imgur.com/a/I2jcBFO)
 
 *Hint: If you right click on the file you want to use, you can copy the path and paste into the command line*
 
 Once you have entered in your path, you will be prompted with a series of questions:
 
-![Financial Data](URL)
+![Financial Data](https://imgur.com/a/r4FCWNO)
 
-This will then calculate your debt-to-income ratio, loan-to-value ratio and the number of loans you qualify for:
+This will then calculate your debt-to-income ratio, loan-to-value ratio and the number of loans you qualify for.
 
-![Qualifying loans](URL)
+
 
 You will then be prompted to decide if you would like to save your data as a CSV file, and if so, the desired location you would like:
 
-![Save data option]()
+![Save data option](https://imgur.com/a/DGBGSjE)
 
 You can use tab and return/enter, which will show a pop up of your folders to chose the desired location:
 
-![Tab/enter location data](URL)
+![Tab/enter location data](https://imgur.com/a/JMFN0Sz)
+
+![File name](https://imgur.com/a/NcM5986)
 
 Once you have entered in the location, you should then have a CSV file with your qualifying loans!
 
-![CSV file!](URL)
+![CSV file!](https://imgur.com/a/bSoe62u)
 
 ---
 
 ## Contributors
 
-In this section, list all the people who contribute to this project. You might want recruiters or potential collaborators to reach you, so include your contact email and, optionally, your LinkedIn or Twitter profile.
+Emily Bertani
+
+Emily.Bertani.MD@gmail.com
 
 ---
 
 ## License
 
-When you share a project on a repository, especially a public one, it's important to choose the right license to specify what others can and can't with your source code and files. Use this section to include the license you want to use.
+License goes here!

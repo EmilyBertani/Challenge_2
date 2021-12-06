@@ -46,7 +46,7 @@ Type in `conda activate dev` to make sure you are in the dev environment to run 
 
 You will then be prompted to enter in the file path to a rate sheet:
 
-![File Path](https://imgur.com/a/I2jcBFO)
+![File Path](https://imgur.com/a/j1Sr7Sd)
 
 *Hint: If you right click on the file you want to use, you can copy the path and paste into the command line*
 

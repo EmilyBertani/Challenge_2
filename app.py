@@ -21,6 +21,7 @@ from qualifier.utils.calculators import (
     calculate_loan_to_value_ratio,
 )
 
+# List of filters used to determine qualifying banks, modularized
 from qualifier.filters.max_loan_size import filter_max_loan_size
 from qualifier.filters.credit_score import filter_credit_score
 from qualifier.filters.debt_to_income import filter_debt_to_income
@@ -40,7 +41,6 @@ def load_bank_data():
         sys.exit(f"Oops! Can't find this path: {csvpath}")
 
     temp = load_csv(csvpath)
-    print(temp)
     return temp
 
 

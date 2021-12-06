@@ -46,13 +46,14 @@ Type in `conda activate dev` to make sure you are in the dev environment to run 
 
 You will then be prompted to enter in the file path to a rate sheet:
 
-![File Path](https://imgur.com/a/j1Sr7Sd)
+
+![Imgur](https://i.imgur.com/ZvIJZp1m.png?1)
 
 *Hint: If you right click on the file you want to use, you can copy the path and paste into the command line*
 
 Once you have entered in your path, you will be prompted with a series of questions:
 
-![Financial Data](https://imgur.com/a/r4FCWNO)
+![Imgur](https://i.imgur.com/qAlle5qm.png)
 
 This will then calculate your debt-to-income ratio, loan-to-value ratio and the number of loans you qualify for.
 
@@ -60,17 +61,16 @@ This will then calculate your debt-to-income ratio, loan-to-value ratio and the 
 
 You will then be prompted to decide if you would like to save your data as a CSV file, and if so, the desired location you would like:
 
-![Save data option](https://imgur.com/a/DGBGSjE)
+![Imgur](https://i.imgur.com/cdebtd8m.png)
 
 You can use tab and return/enter, which will show a pop up of your folders to chose the desired location:
 
-![Tab/enter location data](https://imgur.com/a/JMFN0Sz)
+![Imgur](https://i.imgur.com/hLgjpgp.png)
 
-![File name](https://imgur.com/a/NcM5986)
 
 Once you have entered in the location, you should then have a CSV file with your qualifying loans!
 
-![CSV file!](https://imgur.com/a/bSoe62u)
+![Imgur](https://i.imgur.com/iSmLgzgl.png)
 
 ---
 
@@ -80,8 +80,16 @@ Emily Bertani
 
 Emily.Bertani.MD@gmail.com
 
+[LinkedIn](https://www.linkedin.com/feed/)
+
 ---
 
 ## License
 
-License goes here!
+MIT
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.

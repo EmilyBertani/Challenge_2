@@ -1,0 +1,953 @@
+   50  cd Python_Project
+   51  python hello_variable_world.py
+   52  python hello_variable_world.py
+   53  python hello_variable_world.py
+   54  python listing_assets.py
+   55  python M1L3.py
+   56  python M1L3.py
+   57  python M1L3.py
+   58  python M1L3.py
+   59  python M1L3.py
+   60  python M1L3.py
+   61  python M1L3.py
+   62  python M1L3.py
+   63  conda deactivate
+   64  cd desktop
+   65  ls
+   66  cd FinTech-workspace
+   67  ls
+   68  cd Python_Project
+   69  conda activate dev
+   70  python M1L4.py
+   71  python M1L4.py
+   72  python M1L4.py
+   73  python M1L4.py
+   74  conda deactivate
+   75  cd desktop
+   76  cd Fintech-workspace
+   77  ls
+   78  cd Python_Project
+   79  ls
+   80  conda activate dev
+   81  python conditional.py
+   82  python conditional_stateent.py
+   83  python conditional_statement.py
+   84  python conditional.py
+   85  python conditional.py
+   86  python complex_conditionals.py
+   87  python complex_conditionals.py
+   88  conda deactivate
+   89  /usr/local/bin/python3 /Users/emilybertani/Desktop/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+   90  /usr/local/bin/python3 /Users/emilybertani/Desktop/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+   91  /usr/local/bin/python3 /Users/emilybertani/Desktop/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+   92  /usr/local/bin/python3 /Users/emilybertani/Desktop/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+   93  /usr/local/bin/python3 /Users/emilybertani/Desktop/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+   94  /usr/local/bin/python3 /Users/emilybertani/Desktop/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+   95  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/defining_functions.py
+   96  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/defining_functions.py
+   97  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/defining_functions.py
+   98  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/defining_functions.py
+   99  conda activate dev
+  100  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/defining_functions.py
+  101  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/defining_functions.py
+  102  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/defining_functions.py
+  103  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/defining_functions.py
+  104  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/defining_functions.py
+  105  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/defining_functions.py
+  106  /usr/local/bin/python3 /Users/emilybertani/Desktop/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py
+  107  /usr/local/bin/python3 /Users/emilybertani/Desktop/02_Returned_Goods/Unsolved/returned_goods.py
+  108  /usr/local/bin/python3 /Users/emilybertani/Desktop/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  109  /usr/local/bin/python3 /Users/emilybertani/Desktop/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  110  /usr/local/bin/python3 /Users/emilybertani/Desktop/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  111  /usr/local/bin/python3 /Users/emilybertani/Desktop/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  112  /usr/local/bin/python3 /Users/emilybertani/Desktop/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  113  /usr/local/bin/python3 /Users/emilybertani/Desktop/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  114  /usr/local/bin/python3 /Users/emilybertani/Desktop/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  115  /usr/local/bin/python3 /Users/emilybertani/Desktop/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  116  /usr/local/bin/python3 /Users/emilybertani/Desktop/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  117  /usr/local/bin/python3 /Users/emilybertani/Desktop/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  118  /usr/local/bin/python3 /Users/emilybertani/Desktop/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  119  /usr/local/bin/python3 /Users/emilybertani/Desktop/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  120  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/price.py
+  121  conda activate dev
+  122  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/price.py
+  123  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/price.py
+  124  /usr/local/bin/python3 /Users/emilybertani/Desktop/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  125  /usr/local/bin/python3 /Users/emilybertani/Desktop/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  126  /usr/local/bin/python3 /Users/emilybertani/Desktop/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  127  /usr/local/bin/python3 /Users/emilybertani/Desktop/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  128  /usr/local/bin/python3 /Users/emilybertani/Desktop/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  129  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/price.py
+  130  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/price.py
+  131  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/price.py
+  132  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/price.py
+  133  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/price.py
+  134  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/price.py
+  135  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/price.py
+  136  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/price.py
+  137  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/price.py
+  138  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/price.py
+  139  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/price.py
+  140  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/price.py
+  141  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/price.py
+  142  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/price.py
+  143  /usr/local/bin/python3 /Users/emilybertani/Desktop/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  144  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Class_1_Activities/02_Stu_Percent_Increase/Unsolved/percent_increase.py
+  145  conda activate dev
+  146  cd desktop
+  147  ls
+  148  cd Fin_tech-workspace
+  149  cd FinTech-workspace
+  150  ls
+  151  cd Class_1_Activities
+  152  ls
+  153  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Class_1_Activities/02_Stu_Percent_Increase/Unsolved/percent_increase.py
+  154  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Class_1_Activities/02_Stu_Percent_Increase/Unsolved/percent_increase.py
+  155  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Class_1_Activities/02_Stu_Percent_Increase/Unsolved/percent_increase.py
+  156  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Class_1_Activities/02_Stu_Percent_Increase/Unsolved/percent_increase.py
+  157  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Class_1_Activities/02_Stu_Percent_Increase/Unsolved/percent_increase.py
+  158  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Class_1_Activities/02_Stu_Percent_Increase/Unsolved/percent_increase.py
+  159  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Class_1_Activities/04_Stu_Manipulating_Lists/Unsolved/manipulating_lists.py
+  160  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Class_1_Activities/04_Stu_Manipulating_Lists/Unsolved/manipulating_lists.py
+  161  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Class_1_Activities/04_Stu_Manipulating_Lists/Unsolved/manipulating_lists.py
+  162  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Class_1_Activities/04_Stu_Manipulating_Lists/Unsolved/manipulating_lists.py
+  163  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Class_1_Activities/04_Stu_Manipulating_Lists/Unsolved/manipulating_lists.py
+  164  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Class_1_Activities/04_Stu_Manipulating_Lists/Unsolved/manipulating_lists.py
+  165  /usr/local/bin/python3
+  166  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Class_1_Activities/06_Stu_Working_with_Dictionaries/Unsolved/dictionaries.py
+  167  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Class_1_Activities/06_Stu_Working_with_Dictionaries/Unsolved/dictionaries.py
+  168  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Class_1_Activities/06_Stu_Working_with_Dictionaries/Unsolved/dictionaries.py
+  169  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Class_1_Activities/06_Stu_Working_with_Dictionaries/Unsolved/dictionaries.py
+  170  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Class_1_Activities/06_Stu_Working_with_Dictionaries/Unsolved/dictionaries.py
+  171  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Class_1_Activities/06_Stu_Working_with_Dictionaries/Unsolved/dictionaries.py
+  172  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Class_1_Activities/06_Stu_Working_with_Dictionaries/Unsolved/dictionaries.py
+  173  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Class_1_Activities/06_Stu_Working_with_Dictionaries/Unsolved/dictionaries.py
+  174  conda activate dev
+  175  cd desktop
+  176  ls
+  177  cd FinTech-workspace
+  178  ls
+  179  cd Python_Project
+  180  ls
+  181  conda activate dev
+  182  python defining_functions.py
+  183  python defining_functions.py
+  184  ls
+  185  python defining_functions.py
+  186  conda deactivate
+  187  conda activate dev
+  188  conda deactivate
+  189  cd desktop
+  190  cd FinTech-workspace
+  191  ls
+  192  cd Python_project
+  193  cd ..
+  194  cd ..
+  195  cd 01_Read_and_Write_CSV
+  196  ls
+  197  import csv
+  198  conda deactivate
+  199  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/csvstuff.py
+  200  conda activate dev
+  201  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/csvstuff.py
+  202  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/csvstuff.py
+  203  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/csvstuff.py
+  204  /usr/local/bin/python3 /Users/emilybertani/Desktop/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  205  /usr/local/bin/python3 /Users/emilybertani/Desktop/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  206  /usr/local/bin/python3 /Users/emilybertani/Desktop/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  207  /usr/local/bin/python3 /Users/emilybertani/Desktop/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  208  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  209  /usr/local/bin/python3 /Users/emilybertani/Desktop/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  210  /usr/local/bin/python3 /Users/emilybertani/Desktop/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  211  /usr/local/bin/python3 /Users/emilybertani/Desktop/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  212  /usr/local/bin/python3 /Users/emilybertani/Desktop/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  213  /usr/local/bin/python3 /Users/emilybertani/Desktop/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  214  /usr/local/bin/python3 /Users/emilybertani/Desktop/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  215  /usr/local/bin/python3 /Users/emilybertani/Desktop/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  216  /usr/local/bin/python3 /Users/emilybertani/Desktop/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  217  /usr/local/bin/python3 /Users/emilybertani/Desktop/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  218  /usr/local/bin/python3 /Users/emilybertani/Desktop/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  219  /usr/local/bin/python3 /Users/emilybertani/Desktop/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  220  /usr/local/bin/python3 /Users/emilybertani/Desktop/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  221  /usr/local/bin/python3 /Users/emilybertani/Desktop/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  222  /usr/local/bin/python3 /Users/emilybertani/Desktop/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  223  /usr/local/bin/python3 /Users/emilybertani/Desktop/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  224  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/price.py
+  225  conda activate dev
+  226  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/price.py
+  227  cd Python_Project
+  228  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/price.py
+  229  python price.py
+  230  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/price.py
+  231  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/price.py
+  232  /usr/local/bin/python3 /Users/emilybertani/Desktop/Class_2_Activities/01_Stu_Variables/Unsolved/variables.py
+  233  /usr/local/bin/python3 /Users/emilybertani/Desktop/Class_2_Activities/01_Stu_Variables/Unsolved/variables.py
+  234  /usr/local/bin/python3 /Users/emilybertani/Desktop/Class_2_Activities/01_Stu_Variables/Unsolved/variables.py
+  235  /usr/local/bin/python3 /Users/emilybertani/Desktop/Class_2_Activities/01_Stu_Variables/Unsolved/variables.py
+  236  /usr/local/bin/python3 /Users/emilybertani/Desktop/Class_2_Activities/01_Stu_Variables/Unsolved/variables.py
+  237  /usr/local/bin/python3 /Users/emilybertani/Desktop/Class_2_Activities/01_Stu_Variables/Unsolved/variables.py
+  238  /usr/local/bin/python3 /Users/emilybertani/Desktop/Class_2_Activities/01_Stu_Variables/Unsolved/variables.py
+  239  /usr/local/bin/python3 /Users/emilybertani/Desktop/Class_2_Activities/01_Stu_Variables/Unsolved/variables.py
+  240  /usr/local/bin/python3 /Users/emilybertani/Desktop/Class_2_Activities/01_Stu_Variables/Unsolved/variables.py
+  241  /usr/local/bin/python3 /Users/emilybertani/Desktop/Class_2_Activities/01_Stu_Variables/Unsolved/variables.py
+  242  /usr/local/bin/python3 /Users/emilybertani/Desktop/Class_2_Activities/01_Stu_Variables/Unsolved/variables.py
+  243  /usr/local/bin/python3 /Users/emilybertani/Desktop/Class_2_Activities/03_Stu_Conditional_Statements/Unsolved/conditional_statements.py
+  244  /usr/local/bin/python3 /Users/emilybertani/Desktop/Class_2_Activities/03_Stu_Conditional_Statements/Unsolved/conditional_statements.py
+  245  /usr/local/bin/python3 /Users/emilybertani/Desktop/Class_2_Activities/03_Stu_Conditional_Statements/Unsolved/conditional_statements.py
+  246  /usr/local/bin/python3 /Users/emilybertani/Desktop/Class_2_Activities/03_Stu_Conditional_Statements/Unsolved/conditional_statements.py
+  247  cd desktop
+  248  cd FinTech-workspace
+  249  pwd
+  250  mkdir Activity-1
+  251  ls
+  252  cd Activity-1
+  253  touch hello.md
+  254  ls
+  255  mv hello.md coding.md
+  256  ls
+  257  mkdir terminal
+  258  ls
+  259  mv coding.md terminal
+  260  ls 
+  261  cd terminal
+  262  ls
+  263  rm terminal
+  264  cd ..
+  265  rm terminal
+  266  rmdir terminal
+  267  ls
+  268  rm -r terminal
+  269  ls
+  270  /usr/local/bin/python3 /Users/emilybertani/Desktop/Class_2_Activities/07_Stu_Functions/Unsolved/functions.py
+  271  /usr/local/bin/python3 /Users/emilybertani/Desktop/Class_2_Activities/07_Stu_Functions/Unsolved/functions.py
+  272  /usr/local/bin/python3 /Users/emilybertani/Desktop/Class_2_Activities/07_Stu_Functions/Unsolved/functions.py
+  273  /usr/local/bin/python3 /Users/emilybertani/Desktop/Class_2_Activities/07_Stu_Functions/Unsolved/functions.py
+  274  /usr/local/bin/python3 /Users/emilybertani/Desktop/Class_2_Activities/07_Stu_Functions/Unsolved/functions.py
+  275  /usr/local/bin/python3 /Users/emilybertani/Desktop/Class_2_Activities/07_Stu_Functions/Unsolved/functions.py
+  276  /usr/local/bin/python3 /Users/emilybertani/Desktop/Class_2_Activities/07_Stu_Functions/Unsolved/functions.py
+  277  /usr/local/bin/python3 /Users/emilybertani/Desktop/Class_2_Activities/07_Stu_Functions/Unsolved/functions.py
+  278  /usr/local/bin/python3 /Users/emilybertani/Desktop/Class_2_Activities/07_Stu_Functions/Unsolved/functions.py
+  279  /usr/local/bin/python3 /Users/emilybertani/Desktop/Class_2_Activities/07_Stu_Functions/Solved/functions.py
+  280  /usr/local/bin/python3 /Users/emilybertani/Desktop/Class_2_Activities/07_Stu_Functions/Unsolved/functions.py
+  281  /usr/local/bin/python3 /Users/emilybertani/Desktop/Class_2_Activities/07_Stu_Functions/Unsolved/functions.py
+  282  /usr/local/bin/python3 /Users/emilybertani/Desktop/Class_2_Activities/07_Stu_Functions/Unsolved/functions.py
+  283  /usr/local/bin/python3 /Users/emilybertani/Desktop/Class_2_Activities/07_Stu_Functions/Unsolved/functions.py
+  284  /usr/local/bin/python3 /Users/emilybertani/Desktop/Class_2_Activities/09_Stu_Loops/Unsolved/loops.py
+  285  /usr/local/bin/python3 /Users/emilybertani/Desktop/Class_2_Activities/09_Stu_Loops/Unsolved/loops.py
+  286  /usr/local/bin/python3 /Users/emilybertani/Desktop/Class_2_Activities/09_Stu_Loops/Unsolved/loops.py
+  287  /usr/local/bin/python3 /Users/emilybertani/Desktop/Class_2_Activities/09_Stu_Loops/Unsolved/loops.py
+  288  /usr/local/bin/python3 /Users/emilybertani/Desktop/Class_2_Activities/09_Stu_Loops/Unsolved/loops.py
+  289  /usr/local/bin/python3 /Users/emilybertani/Desktop/Class_2_Activities/09_Stu_Loops/Unsolved/loops.py
+  290  /usr/local/bin/python3 /Users/emilybertani/Desktop/Class_2_Activities/09_Stu_Loops/Unsolved/loops.py
+  291  /usr/local/bin/python3 /Users/emilybertani/Desktop/Class_2_Activities/09_Stu_Loops/Unsolved/loops.py
+  292  /usr/local/bin/python3 /Users/emilybertani/Desktop/Class_2_Activities/09_Stu_Loops/Unsolved/loops.py
+  293  /usr/local/bin/python3 /Users/emilybertani/Desktop/Class_2_Activities/09_Stu_Loops/Unsolved/loops.py
+  294  /usr/local/bin/python3 /Users/emilybertani/Desktop/Class_2_Activities/09_Stu_Loops/Unsolved/loops.py
+  295  /usr/local/bin/python3 /Users/emilybertani/Desktop/Class_2_Activities/09_Stu_Loops/Unsolved/loops.py
+  296  /usr/local/bin/python3 /Users/emilybertani/Desktop/Class_2_Activities/09_Stu_Loops/Solved/loops.py
+  297  cd desktop
+  298  ls
+  299  cd FinTech-workspace
+  300  ls
+  301  cd Python_Project
+  302  conda activate dev
+  303  pip -V
+  304  pip freeze
+  305  pip install fire
+  306  pip install questionaru
+  307  pip install questionary
+  308  conda deactivate
+  309  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/price.py
+  310  conda activate dev
+  311  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/price.py
+  312  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/price.py
+  313  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/price.py
+  314  cd desktop
+  315  cd FinTech-workspace
+  316  cd Python_Project
+  317  conda activate dev
+  318  conda deactivate
+  319  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/price.py
+  320  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/price.py
+  321  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/price.py
+  322  conda activate dev
+  323  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/price.py
+  324  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/price.py
+  325  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/practice.py
+  326  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/practice.py
+  327  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/practice.py
+  328  conda activate dev
+  329  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/practice.py
+  330  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/practice.py
+  331  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/practice.py
+  332  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/practice.py
+  333  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/practice.py
+  334  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/practice.py
+  335  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/practice.py
+  336  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/practice.py
+  337  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/practice.py
+  338  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/practice.py
+  339  conda deactivate
+  340  cd desktop
+  341  cd FinTech-workspace
+  342  cd Python_Project
+  343  conda activate dev
+  344  practice.py
+  345  python practice.py
+  346  python practice.py
+  347  python practice.py
+  348  conda deactivate
+  349  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/practice.py
+  350  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/practice.py
+  351  conda activate de
+  352  conda activate dev
+  353  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/practice.py
+  354  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/practice.py
+  355  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/practice.py
+  356  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/practice.py
+  357  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/practice.py
+  358  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/practice.py
+  359  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/M1L3.py
+  360  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/listing_assets.py
+  361  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/practice.py
+  362  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/user_story.py
+  363  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/user_story.py
+  364  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/user_story.py
+  365  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/user_story.py
+  366  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/user_story.py
+  367  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/user_story.py
+  368  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/user_story.py
+  369  cd desktop
+  370  cd FinTech-workspace
+  371  cd Python_Project
+  372  conda activate dev
+  373  conda deactivate
+  374  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/user_story.py
+  375  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/M1L3.py
+  376  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/defining_functions.py
+  377  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/user_story.py
+  378  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/user_story.py
+  379  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/practice.py
+  380  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/user_story.py
+  381  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/user_story.py
+  382  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/user_story.py
+  383  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/user_story.py
+  384  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/user_story.py
+  385  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/user_story.py
+  386  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/user_story.py
+  387  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/user_story.py
+  388  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/user_story.py
+  389  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  390  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  391  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/01_Loan_Qualifier_Financial_Calculations/Solved/app.py
+  392  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  393  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/01_Loan_Qualifier_Financial_Calculations/Solved/app.py
+  394  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  395  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  396  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  397  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  398  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  399  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  400  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  401  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/02_Loan_Qualifier_Filtering_Data/Solved/app.py
+  402  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/02_Loan_Qualifier_Filtering_Data/Solved/app.py
+  403  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/02_Loan_Qualifier_Filtering_Data/Solved/app.py
+  404  cd desktop
+  405  cd FinTech-workspace
+  406  cd Python_Project
+  407  ls
+  408  cd ..
+  409  ls
+  410  cd 02_Loan_Qualifier_Filtering_Data
+  411  conda activate dev
+  412  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/02_Loan_Qualifier_Filtering_Data/Solved/app.py
+  413  cd desktop
+  414  cd FinTech-workspace
+  415  ls
+  416  cd 02_Loan_Qualifier_Filtering_Data
+  417  ls
+  418  cd Unsolved
+  419  ls
+  420  cd data
+  421  conda activate dev
+  422  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/02_Loan_Qualifier_Filtering_Data/Solved/app.py
+  423  cd desktop
+  424  cd FinTech-workspace
+  425  ls
+  426  cd 02_Loan_Qualifier_Filtering_Data
+  427  ls
+  428  cd unsolved
+  429  ls
+  430  cd data
+  431  cd desktop
+  432  ls
+  433  cd Challenge_Files
+  434  git clone https://github.com/EmilyBertani/Challenge_1.git
+  435  ls
+  436  cd Challenge_1
+  437  ls
+  438  git add .
+  439  git commit -m "added text to loan sum"
+  440  git config --global user.name "Your Name"\n    git config --global user.email you@example.com
+  441  git config --global user.name "emilybertani"
+  442  git config --global user.email emily.bertani.md@gmail.com
+  443  git commit -m "added text to loan sum"
+  444  git push origin main
+  445  git push origin main
+  446  git push origin main
+  447  git push origin main
+  448  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  449  cd FinTech-workspace
+  450  cd 02_Loan_Qualifier_Filtering_Data
+  451  cd Unsolved
+  452  cd data
+  453  conda activate dev
+  454  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  455  ls
+  456  cd ..
+  457  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  458  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  459  cd data
+  460  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  461  pwd
+  462  cd ..
+  463  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  464  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  465  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  466  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/qualifier/utils/fileio.py
+  467  pwd
+  468  cd
+  469  cd ..
+  470  pwd
+  471  cd desktop
+  472  conda deactivate
+  473  cd desktop
+  474  ls
+  475  cd emilybertani
+  476  cd desktop
+  477  cd FinTech-workspace
+  478  ls
+  479  cd 02_Loan_Qualifier_Filtering_Data
+  480  ls
+  481  cd Solved
+  482  cd data
+  483  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/02_Loan_Qualifier_Filtering_Data/Solved/app.py
+  484  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/02_Loan_Qualifier_Filtering_Data/Solved/app.py
+  485  /usr/local/bin/python3 /Users/emilybertani/Desktop/FinTech-workspace/02_Loan_Qualifier_Filtering_Data/Solved/app.py
+  486  /usr/local/bin/python3 /Users/emilybertani/Desktop/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py
+  487  /usr/local/bin/python3 /Users/emilybertani/Desktop/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py
+  488  /usr/local/bin/python3 /Users/emilybertani/Desktop/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py
+  489  /usr/local/bin/python3 /Users/emilybertani/Desktop/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py
+  490  /usr/local/bin/python3 /Users/emilybertani/Desktop/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py
+  491  /usr/local/bin/python3 /Users/emilybertani/Desktop/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py
+  492  /usr/local/bin/python3 /Users/emilybertani/Desktop/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py
+  493  /usr/local/bin/python3 /Users/emilybertani/Desktop/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py
+  494  /usr/local/bin/python3 /Users/emilybertani/Desktop/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py
+  495  /usr/local/bin/python3 /Users/emilybertani/Desktop/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py
+  496  /usr/local/bin/python3 /Users/emilybertani/Desktop/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py
+  497  /usr/local/bin/python3 /Users/emilybertani/Desktop/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py
+  498  /usr/local/bin/python3 /Users/emilybertani/Desktop/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py
+  499  /usr/local/bin/python3 /Users/emilybertani/Desktop/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py
+  500  /usr/local/bin/python3 /Users/emilybertani/Desktop/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py
+  501  /usr/local/bin/python3 /Users/emilybertani/Desktop/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py
+  502  /usr/local/bin/python3 /Users/emilybertani/Desktop/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Solved/app.py
+  503  cd ..
+  504  /usr/local/bin/python3 /Users/emilybertani/Desktop/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Solved/app.py
+  505  cd ..
+  506  ls
+  507  cd Unsolved
+  508  /usr/local/bin/python3 /Users/emilybertani/Desktop/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py
+  509  /usr/local/bin/python3 /Users/emilybertani/Desktop/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py
+  510  ls
+  511  cd qualifier
+  512  /usr/local/bin/python3 /Users/emilybertani/Desktop/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py
+  513  /usr/local/bin/python3 /Users/emilybertani/Desktop/Challenge_Files/loan_analyzer.py
+  514  cd ..
+  515  cd ..
+  516  cd ..
+  517  cd ..
+  518  ls
+  519  cd Challenge_Files
+  520  /usr/local/bin/python3 /Users/emilybertani/Desktop/Challenge_Files/loan_analyzer.py
+  521  /usr/local/bin/python3 /Users/emilybertani/Desktop/Challenge_Files/loan_analyzer.py
+  522  /usr/local/bin/python3 /Users/emilybertani/Desktop/Challenge_Files/loan_analyzer.py
+  523  /usr/local/bin/python3 /Users/emilybertani/Desktop/Challenge_Files/loan_analyzer.py
+  524  /usr/local/bin/python3 /Users/emilybertani/Desktop/Challenge_Files/loan_analyzer.py
+  525  /usr/local/bin/python3 /Users/emilybertani/Desktop/Challenge_Files/loan_analyzer.py
+  526  /usr/local/bin/python3 /Users/emilybertani/Desktop/Challenge_Files/loan_analyzer.py
+  527  /usr/local/bin/python3 /Users/emilybertani/Desktop/Challenge_Files/loan_analyzer.py
+  528  /usr/local/bin/python3 /Users/emilybertani/Desktop/Challenge_Files/loan_analyzer.py
+  529  /usr/local/bin/python3 /Users/emilybertani/Desktop/Challenge_Files/loan_analyzer.py
+  530  /usr/local/bin/python3 /Users/emilybertani/Desktop/Challenge_Files/loan_analyzer.py
+  531  /usr/local/bin/python3 /Users/emilybertani/Desktop/Challenge_Files/loan_analyzer.py
+  532  /usr/local/bin/python3 /Users/emilybertani/Desktop/Challenge_Files/loan_analyzer.py
+  533  /usr/local/bin/python3 /Users/emilybertani/Desktop/Challenge_Files/loan_analyzer.py
+  534  /usr/local/bin/python3 /Users/emilybertani/Desktop/Challenge_Files/loan_analyzer.py
+  535  /usr/local/bin/python3 /Users/emilybertani/Desktop/Challenge_Files/loan_analyzer.py
+  536  /usr/local/bin/python3 /Users/emilybertani/Desktop/Challenge_Files/loan_analyzer.py
+  537  /usr/local/bin/python3 /Users/emilybertani/Desktop/Challenge_Files/loan_analyzer.py
+  538  /usr/local/bin/python3 /Users/emilybertani/Desktop/Challenge_Files/loan_analyzer.py
+  539  /usr/local/bin/python3 /Users/emilybertani/Desktop/Challenge_Files/loan_analyzer.py
+  540  /usr/local/bin/python3 /Users/emilybertani/Desktop/python_fire.py
+  541  /usr/local/bin/python3 /Users/emilybertani/Desktop/cli.py
+  542  /usr/local/bin/python3 /Users/emilybertani/Desktop/cli.py
+  543  /usr/local/bin/python3 /Users/emilybertani/Desktop/cli.py
+  544  cd desktop
+  545  pip install fire
+  546  conda activate dev
+  547  python cli.py
+  548  python cli.py --pants=True
+  549  python cli.py --pants=True
+  550  pip install fire
+  551  ls
+  552  cd 01_Adding_Fire_to_the_Loan_Qualifier_App
+  553  cd Unsolved
+  554  python app.py
+  555  python app.py
+  556  cd desktop
+  557  ls
+  558  cd 01_Adding_Fire_to_the_Loan_Qualifier_App
+  559  ls
+  560  cd Unsolved
+  561  conda activate dev
+  562  python app.py --credit_score=750
+  563  python app.py --credit_score=750
+  564  python app.py --credit_score=750
+  565  python app.py --credit_score=450
+  566  python app.py --credit_score=750 --debt=3000 --income=50000
+  567  pip install questionary
+  568  cd desktop
+  569  cd ..
+  570  cd ..
+  571  python dialog.py
+  572  python dialog.py
+  573  python dialog.py
+  574  python dialog.py
+  575  cd 02_Adding_questionary_to_Loan_Qualifier
+  576  cd Unsolved
+  577  python app.py --credit_score=750 --debt=5000 --income=20000
+  578  python app.py
+  579  python app.py
+  580  cd ..
+  581  cd ..
+  582  cd FinTech-workspace
+  583  cd Python_Project
+  584  python practice.py
+  585  conda deactivate
+  586  /usr/local/bin/python3 /Users/emilybertani/Desktop/cli.py
+  587  /usr/local/bin/python3 /Users/emilybertani/Desktop/cli.py
+  588  /usr/local/bin/python3 /Users/emilybertani/Desktop/cli.py
+  589  /usr/local/bin/python3 /Users/emilybertani/Desktop/cli.py
+  590  /usr/local/bin/python3 /Users/emilybertani/Desktop/cli.py
+  591  conda activate dev
+  592  /usr/local/bin/python3 /Users/emilybertani/Desktop/cli.py
+  593  /usr/local/bin/python3 /Users/emilybertani/Desktop/cli.py
+  594  /usr/local/bin/python3 /Users/emilybertani/Desktop/cli.py
+  595  /usr/local/bin/python3 /Users/emilybertani/Desktop/cli.py
+  596  /usr/local/bin/python3 /Users/emilybertani/Desktop/cli.py
+  597  pip install fire
+  598  /usr/local/bin/python3 /Users/emilybertani/Desktop/cli.py
+  599  cd opt
+  600  /usr/local/bin/python3 /Users/emilybertani/Desktop/cli.py
+  601  /usr/local/bin/python3 /Users/emilybertani/Desktop/cli.py
+  602  /usr/local/bin/python3 /Users/emilybertani/Desktop/cli.py
+  603  pip install fire
+  604  /usr/local/bin/python3 /Users/emilybertani/Desktop/cli.py
+  605  /usr/local/bin/python3 /Users/emilybertani/Desktop/cli.py
+  606  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/cli.py
+  607  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/cli.py
+  608  cli.py --pants=True
+  609  --pants=True
+  610  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  611  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  612  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  613  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  614  python app.py --credit_score=750
+  615  cd 01_Adding_Fire_to_the_Loan_Qualifier_App
+  616  cd Unsolved
+  617  python app.py --credit_score=750
+  618  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  619  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/price.py
+  620  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/practice.py
+  621  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/practice.py
+  622  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/practice.py
+  623  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/practice.py
+  624  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/practice.py
+  625  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/practice.py
+  626  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/FinTech-workspace/Python_Project/practice.py
+  627  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/01-variables-01/Unsolved/variables-01.py
+  628  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/03-dicts-01/Unsolved/dicts-01.py
+  629  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved/condition-control-flow-01.py
+  630  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved/condition-control-flow-01.py
+  631  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved/condition-control-flow-01.py
+  632  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved/condition-control-flow-01.py
+  633  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved/condition-control-flow-01.py
+  634  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved/condition-control-flow-01.py
+  635  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved/condition-control-flow-01.py
+  636  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved/condition-control-flow-01.py
+  637  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py
+  638  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py
+  639  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py
+  640  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py
+  641  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py
+  642  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py
+  643  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py
+  644  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py
+  645  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py
+  646  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/06-loops-01/Unsolved/loops-01.py
+  647  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/06-loops-01/Unsolved/loops-01.py
+  648  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  649  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  650  pwd
+  651  cd ..
+  652  cd ..
+  653  cd M2Class_
+  654  cd M2Class_1_Activities
+  655  ls
+  656  cd 01_Stu_Python_Code_Drills
+  657  cd Unsolved
+  658  cd 09-csv-01
+  659  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  660  cd Unsolved
+  661  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  662  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/03_Inst_ATM_Application_Logic/Unsolved/atm.py
+  663  cd ..
+  664  cd ..
+  665  cd ..
+  666  cd ..
+  667  cd 03_Inst_ATM_Application_Logic
+  668  cd U
+  669  cd Unsolved
+  670  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/03_Inst_ATM_Application_Logic/Unsolved/atm.py
+  671  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/03_Inst_ATM_Application_Logic/Unsolved/atm.py
+  672  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/03_Inst_ATM_Application_Logic/Unsolved/atm.py
+  673  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/03_Inst_ATM_Application_Logic/Unsolved/atm.py
+  674  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Documents/04_Stu_ATM_Application_Code/Solved/atm.py
+  675  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Documents/04_Stu_ATM_Application_Code/Solved/atm.py
+  676  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Documents/04_Stu_ATM_Application_Code/Solved/atm.py
+  677  git config --global user.name emilybertani
+  678  git config --global user.email emily.bertani.md@gmail.com
+  679  git config --list
+  680  cd desktop
+  681  ls
+  682  cd FinTech-workspace
+  683  git clone https://github.com/EmilyBertani/Codingdemo2.git
+  684  git status
+  685  ls
+  686  cd Codingdemo2
+  687  git status
+  688  git add README.md
+  689  git status
+  690  touch practice.txt
+  691  ls
+  692  git status
+  693  git add practice.txt
+  694  git status
+  695  git commit -m "edited readme and added a new text file"
+  696  git status
+  697  git push
+  698  git push
+  699  git push
+  700  git push
+  701  git push
+  702  ls -al ~/.ssh
+  703  ssh-keygen -t rsa -b 4096 -C "emily.bertani.md@gmail.com"
+  704  eval "$(ssh-agent -s)"
+  705  ssh-add ~/.ssh/id_rsa
+  706  clip < ~/.ssh/id_rsa.pub
+  707  clip < ~/.ssh/id_rsa.pub
+  708  clip < ~/.ssh/id_rsa.pub
+  709  pbcopy < ~/.ssh/id_rsa.pub
+  710  ssh -T git@github.com
+  711  cd desk
+  712  cd desktop
+  713  cd ls
+  714  ls
+  715  cd Starter_Code
+  716  ls
+  717  cd ..
+  718  cd FinTech-workspace
+  719  git clone https://github.com/EmilyBertani/Codingdemo.git
+  720  ls
+  721  cd Codingdemo
+  722  git status
+  723  git status
+  724  git add README.md
+  725  git status
+  726  touch example2.txt
+  727  ls
+  728  git status
+  729  git add example2.txt
+  730  git status
+  731  git commit -m "edited a readme file and added a text file to see if ssh key works this time"
+  732  git status
+  733  git push
+  734  git push
+  735  cd desktop
+  736  ls
+  737  cd FinTech-workspace
+  738  ls
+  739  git clone https://github.com/EmilyBertani/readme_practice.git
+  740  pwd
+  741  ls
+  742  cd readme_practice
+  743  ls
+  744  git status
+  745  git add README.md
+  746  git status
+  747  git commit -m "practicing altering README files with markdown"
+  748  git status
+  749  git push
+  750  git status
+  751  git add README.md
+  752  git status
+  753  git commit -m "more practice to configure the readme file for loan analyzer"
+  754  git push
+  755  cd desktop
+  756  cd FinTech-workspace
+  757  cd Python_Project
+  758  python practice.py
+  759  cd desktop
+  760  cd FinTech-workspace
+  761  cd Python_Project
+  762  python --name=Emily
+  763  python practice.py --name=Emily
+  764  cd desktop/FinTech-workspace/Python_Project
+  765  cd ..
+  766  cd ..
+  767  python cli.py
+  768  python cli.py
+  769  python cli.py --pants=True
+  770  cd FinTech-workspace
+  771  cd 01_Adding_Fire_to_the_Loan_Qualifier_App
+  772  cd Unsolved
+  773  python app.py
+  774  python app.py --credit_score=750
+  775  python app.py --credit_score=750 debt=4000 income=7000
+  776  python app.py --credit_score=750 --debt=4000 --income=7000
+  777  cd ..
+  778  cd ..
+  779  cd ../..
+  780  ls
+  781  pwd
+  782  cd desktop
+  783  python dialog.py
+  784  cd FinTech-workspace/02_Adding_questionary_to_Loan_Qualifier/Unsolved
+  785  python app.py
+  786  cd ..
+  787  cd Solved
+  788  python app.py
+  789  cd ..
+  790  cd Unsolved
+  791  conda activate dev
+  792  python app.py
+  793  conda deactivate
+  794  cd desktop/FinTech-workspace/02_Adding_questionary_to_Loan_Qualifier/Unsolved
+  795  python app.py
+  796  conda activate dev
+  797  python app.py
+  798  cd desktop
+  799  conda create -n atmdev python=3.7 anaconda
+  800  conda activate atmdev
+  801  cd M2Class_2_Activities
+  802  cd 02_Stu_Build_ATM_Functions
+  803  cd Unsolved
+  804  cd atm
+  805  pip install -r requirements.txt
+  806  cd actions
+  807  python make_withdrawal.py
+  808  conda deactivate
+  809  cd desktop
+  810  git clone https://github.com/EmilyBertani/atm_file.git
+  811  pwd
+  812  cd desktop
+  813  cd M2Class_2_Activities/03_Stu_Create_Github_Repository/atm_file
+  814  git status
+  815  git commit -m "README file updated"
+  816  git add
+  817  git add README.md
+  818  git status
+  819  git commit -m "README updated"
+  820  git push
+  821  pwd
+  822  cd ..
+  823  cd ..
+  824  cd 01_Ins_ATM_Application
+  825  cd Unsolved
+  826  conda activate dev
+  827  python atm.py
+  828  cd atm
+  829  python atm.py
+  830  conda activate atmdev
+  831  python atm.py
+  832  source /Users/emilybertani/opt/anaconda3/bin/activate
+  833  conda activate dev
+  834  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/Challenge_Files/Challenge_1/loan_analyzer.py
+  835  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/Challenge_Files/Challenge_1/loan_analyzer.py
+  836  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/Challenge_Files/Challenge_1/loan_analyzer.py
+  837  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/Challenge_Files/Challenge_1/loan_analyzer.py
+  838  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/Challenge_Files/Challenge_1/loan_analyzer.py
+  839  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/Challenge_Files/Challenge_1/loan_analyzer.py
+  840  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/Challenge_Files/Challenge_1/loan_analyzer.py
+  841  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/01-variables-01/Unsolved/variables-01.py
+  842  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/01-variables-01/Unsolved/variables-01.py
+  843  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/01-variables-01/Unsolved/variables-01.py
+  844  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/02-lists-01/Unsolved/lists-01.py
+  845  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/03-dicts-01/Unsolved/dicts-01.py
+  846  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved/condition-control-flow-01.py
+  847  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py
+  848  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py
+  849  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/show_data.py
+  850  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py
+  851  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py
+  852  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py
+  853  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/06-loops-01/Unsolved/loops-01.py
+  854  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py
+  855  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py
+  856  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py
+  857  cd M2Class_1_Activities
+  858  cd 01_Stu_Python_Code_Drills
+  859  cd Unsolved
+  860  cd 07-functions-01
+  861  cd Unsolved
+  862  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py
+  863  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py
+  864  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py
+  865  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py
+  866  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py
+  867  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py
+  868  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py
+  869  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py
+  870  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py
+  871  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py
+  872  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py
+  873  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py
+  874  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py
+  875  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py
+  876  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py
+  877  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py
+  878  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py
+  879  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py
+  880  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  881  cd ..
+  882  cd ..
+  883  cd 09-csv-01
+  884  cd Unsolved
+  885  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  886  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  887  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  888  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  889  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  890  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  891  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  892  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  893  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  894  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  895  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/03_Inst_ATM_Application_Logic/Unsolved/atm.py
+  896  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py
+  897  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py
+  898  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py
+  899  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py
+  900  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py
+  901  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py
+  902  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py
+  903  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py
+  904  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py
+  905  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py
+  906  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py
+  907  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py
+  908  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py
+  909  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py
+  910  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py
+  911  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py
+  912  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py
+  913  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py
+  914  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py
+  915  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py
+  916  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py
+  917  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py
+  918  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py
+  919  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/05_Stu_ATM_Modularization/Unsolved/atm/atm.py
+  920  cd ..
+  921  cd ..
+  922  cd ..
+  923  cd ..
+  924  cd 05_Stu_ATM_Modularization
+  925  cd Unsolved
+  926  cd atm
+  927  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/05_Stu_ATM_Modularization/Unsolved/atm/atm.py
+  928  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/05_Stu_ATM_Modularization/Unsolved/atm/atm.py
+  929  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_1_Activities/05_Stu_ATM_Modularization/Unsolved/atm/atm.py
+  930  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_2_Activities/02_Stu_Build_ATM_Functions/Unsolved/atm/actions/make_withdrawal.py
+  931  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_2_Activities/02_Stu_Build_ATM_Functions/Unsolved/atm/actions/make_withdrawal.py
+  932  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_2_Activities/02_Stu_Build_ATM_Functions/Unsolved/atm/actions/make_withdrawal.py
+  933  cd actions
+  934  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_2_Activities/02_Stu_Build_ATM_Functions/Unsolved/atm/actions/make_withdrawal.py
+  935  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_2_Activities/02_Stu_Build_ATM_Functions/Unsolved/atm/actions/make_withdrawal.py
+  936  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_2_Activities/01_Ins_ATM_Application/Unsolved/atm/utils.py
+  937  cd /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_2_Activities/01_Ins_ATM_Application/Unsolved/atm/atm.py
+  938  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_2_Activities/01_Ins_ATM_Application/Unsolved/atm/atm.py
+  939  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_2_Activities/01_Ins_ATM_Application/Unsolved/atm/atm.py
+  940  source /Users/emilybertani/opt/anaconda3/bin/activate
+  941  conda activate dev
+  942  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_2_Activities/01_Ins_ATM_Application/Unsolved/atm/atm.py
+  943  conda activate atmdev
+  944  cd M2Class_2_Activities/01_Ins_ATM_Application/Unsolved/atm
+  945  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_2_Activities/01_Ins_ATM_Application/Unsolved/atm/atm.py
+  946  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_2_Activities/01_Ins_ATM_Application/Unsolved/atm/utils.py
+  947  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_2_Activities/01_Ins_ATM_Application/Unsolved/atm/atm.py
+  948  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/FinTech-workspace/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  949  cd ..
+  950  cd ..
+  951  cd ..
+  952  cd ..
+  953  cd M2Class_1_Activities
+  954  cd 01_Stu_Python_Code_Drills
+  955  cd U
+  956  cd Unsolved
+  957  cd 09-csv-01
+  958  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/FinTech-workspace/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  959  conda deactivate
+  960  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/FinTech-workspace/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  961  cd Unsolved
+  962  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/FinTech-workspace/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  963  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/FinTech-workspace/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  964  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/FinTech-workspace/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  965  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/FinTech-workspace/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  966  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/FinTech-workspace/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  967  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/FinTech-workspace/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  968  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/FinTech-workspace/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  969  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/FinTech-workspace/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  970  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/FinTech-workspace/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  971  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/FinTech-workspace/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  972  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/FinTech-workspace/M2Class_1_Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  973  /Users/emilybertani/opt/anaconda3/envs/dev/bin/python /Users/emilybertani/Desktop/M2Class_2_Activities/01_Ins_ATM_Application/Unsolved/atm/utils.py
+  974  conda activate dev
+  975  conda list pandas
+  976  conda list jupyter lab
+  977  conda list jupyterlab
+  978  python -m ipykernel install --user --name dev --display-name *Python (dev)*
+  979  python -m ipykernel install --user --name dev --display-name "Python (dev)"
+  980  jupyter lab
+  981  conda deactivate
+  982  git status
+  983  cd desktop
+  984  cd ls
+  985  ls
+  986  cd Challenge2_Starter_Code
+  987  ls
+  988  git status
+  989  cd loan_qualifier_app
+  990  git status
+  991  ls
+  992  cd app.py
+  993  git status
+  994  conda activate dev
+  995  git status
+  996  ls
+  997  cd data
+  998  git status
+  999  conda deactivate
+ 1000  git status
+ 1001  history 50 > terminal_history.txt
+ 1002  cd desktop

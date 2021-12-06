@@ -6,7 +6,7 @@ This contains a helper function for loading and saving CSV files.
 """
 import csv
 
-
+# This is the function to read the CSV file
 def load_csv(csvpath):
     """Reads the CSV file from path provided.
 
@@ -29,6 +29,7 @@ def load_csv(csvpath):
             data.append(row)
     return data
 
+# This is the function to write the CSV file
 def save_csv(fpath, data):
     """Writes the CSV file to path provided.
 

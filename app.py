@@ -6,11 +6,14 @@ This is a command line application to match applicants with qualifying loans.
 Example:
     $ python app.py
 """
+
+# The following are libraries require to run this Loan Qualifier Application
 import sys
 import fire
 import questionary
 from pathlib import Path
 
+# These are segments of code that we have modularized and have pulled into the main app.py program
 from qualifier.utils.fileio import load_csv, save_csv
 
 from qualifier.utils.calculators import (
@@ -30,7 +33,7 @@ def load_bank_data():
     Returns:
         The bank data from the data rate sheet CSV file.
     """
-
+    # This prompts the user to enter in the path to the CSV file for downloading
     csvpath = questionary.path("Enter a file path to a rate-sheet (.csv):").ask() #changed .text to .path for ease of use
     csvpath = Path(csvpath)
     if not csvpath.exists():
@@ -48,12 +51,15 @@ def get_applicant_info():
         Returns the applicant's financial information.
     """
 
+    # These questions prompt the user to enter in the following personal data, and this allows us to reuse
+    # the code for any users input, making this a dynamic program
     credit_score = questionary.text("What's your credit score?").ask()
     debt = questionary.text("What's your current amount of monthly debt?").ask()
     income = questionary.text("What's your total monthly income?").ask()
     loan_amount = questionary.text("What's your desired loan amount?").ask()
     home_value = questionary.text("What's your home value?").ask()
 
+    # This makes sure our values are either integers or floats, depending on the requirements to run the calculations
     credit_score = int(credit_score)
     debt = float(debt)
     income = float(income)
@@ -85,22 +91,23 @@ def find_qualifying_loans(bank_data, credit_score, debt, income, loan, home_valu
 
     """
 
-    # Calculate the monthly debt ratio
+    # Calculates the monthly debt ratio
     monthly_debt_ratio = calculate_monthly_debt_ratio(debt, income)
     print(f"The monthly debt to income ratio is {monthly_debt_ratio:.02f}")
 
-    # Calculate loan to value ratio
+    # Calculates loan to value ratio
     loan_to_value_ratio = calculate_loan_to_value_ratio(loan, home_value)
     print(f"The loan to value ratio is {loan_to_value_ratio:.02f}.")
 
-    # Run qualification filters
+    # Runs qualification filters
     bank_data_filtered = filter_max_loan_size(loan, bank_data)
     bank_data_filtered = filter_credit_score(credit_score, bank_data_filtered)
     bank_data_filtered = filter_debt_to_income(monthly_debt_ratio, bank_data_filtered)
     bank_data_filtered = filter_loan_to_value(loan_to_value_ratio, bank_data_filtered)
 
     print(f"Found {len(bank_data_filtered)} qualifying loans")
-
+    
+    # Returns a filtered list of all qualifying loans
     return bank_data_filtered
 
 
@@ -114,31 +121,21 @@ def save_qualifying_loans(qualifying_loans):
     # @TODO: Complete the usability dialog for savings the CSV Files.
     # YOUR CODE HERE!
 
-    """
-    if qualifying_loans == None:
-        qualifying_loans = 0
-        sys.exit("There are no qualifying loans.")
-    
-    confirm_save_file = questionary.confirm("Would you like to save the results to a CSV file?").ask()
-
-    if confirm_save_file == False:
-        sys.exit("Your files will not be saved.")
-    elif confirm_save_file == True:
-        filepath = questionary.path("Enter in the file path to save the CSV file.").ask()
-        save_csv(filepath, qualifying_loans)  
-    """
+    # If there are no qualifying loans based on users criteria, the system will exit
     if len(qualifying_loans) == 0:
         qualifying_loans = None
     if qualifying_loans == None:
         sys.exit("There are no qualifying loans.")
         
+    # This prompts the user to decide if they do indeed qualify for loans, would they like to upload that to 
+    # an easy to read CSV file. This will give them an option of (Y/n)    
     confirm_save_file = questionary.confirm("Would you like to save the results to a CSV file?").ask()
 
     if confirm_save_file == False:
         sys.exit("Your files will not be saved.")
     elif confirm_save_file == True:
         filepath = questionary.path("Enter in the file path to save the CSV file.").ask()
-        save_csv(filepath, qualifying_loans)  
+        save_csv(filepath, qualifying_loans)   # If the user opts to save the file, the save_csv module will run
             
 
 def run():
@@ -147,15 +144,15 @@ def run():
     # Load the latest Bank data
     bank_data = load_bank_data()
 
-    # Get the applicant's information
+    # This gets the applicant's information
     credit_score, debt, income, loan_amount, home_value = get_applicant_info()
 
-    # Find qualifying loans
+    # This filters the qualifying loans
     qualifying_loans = find_qualifying_loans(
         bank_data, credit_score, debt, income, loan_amount, home_value
     )
 
-    # Save qualifying loans
+    # This saves the qualifying loans
     save_qualifying_loans(qualifying_loans)
 
 

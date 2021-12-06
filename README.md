@@ -22,23 +22,53 @@ Fire 1.15.0
 
 ## Installation Guide
 
-To install fire, enter in the following prompt in your terminal:
+To install fire, enter in the following prompt in your command line:
 
-`pip install fire`
+`pip install fire`   
+
+More information can be found at [Python-fire](https://github.com/google/python-fire)
+
+
 
 To install questionary, enter the following prompt:
 
 `pip install questionary`
 
-
-
-In this section, you should include detailed installation notes containing code blocks and screenshots.
+More information can be found at [Questionary](https://pypi.org/project/questionary/)
 
 ---
 
 ## Usage
 
-This section should include screenshots, code blocks, or animations explaining how to use your project.
+To run this program, first navigate to your command line.
+
+Type in `conda activate dev` to make sure you are in the dev environment to run the program.
+
+You will then be prompted to enter in the file path to a rate sheet:
+
+![File Path](URL)
+
+*Hint: If you right click on the file you want to use, you can copy the path and paste into the command line*
+
+Once you have entered in your path, you will be prompted with a series of questions:
+
+![Financial Data](URL)
+
+This will then calculate your debt-to-income ratio, loan-to-value ratio and the number of loans you qualify for:
+
+![Qualifying loans](URL)
+
+You will then be prompted to decide if you would like to save your data as a CSV file, and if so, the desired location you would like:
+
+![Save data option]()
+
+You can use tab and return/enter, which will show a pop up of your folders to chose the desired location:
+
+![Tab/enter location data](URL)
+
+Once you have entered in the location, you should then have a CSV file with your qualifying loans!
+
+![CSV file!](URL)
 
 ---
 
